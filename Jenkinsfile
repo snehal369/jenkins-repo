@@ -33,7 +33,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is 23q5"
+                    echo "This is 23q5 updated"
                 }
             
         }
